@@ -6,7 +6,7 @@ import processing.core.PApplet;
 
 public class Floor {
 
-	
+	// Added comment to Floor.java
 	PApplet parent; // The parent PApplet that we will render ourselves onto
 	Level level;
 	
